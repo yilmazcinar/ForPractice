@@ -1,0 +1,14 @@
+C:\Users\caplo\source\repos\ForPractice\ForPractice\bin\Debug\net8.0\ForPractice.exe
+C:\Users\caplo\source\repos\ForPractice\ForPractice\bin\Debug\net8.0\ForPractice.deps.json
+C:\Users\caplo\source\repos\ForPractice\ForPractice\bin\Debug\net8.0\ForPractice.runtimeconfig.json
+C:\Users\caplo\source\repos\ForPractice\ForPractice\bin\Debug\net8.0\ForPractice.dll
+C:\Users\caplo\source\repos\ForPractice\ForPractice\bin\Debug\net8.0\ForPractice.pdb
+C:\Users\caplo\source\repos\ForPractice\ForPractice\obj\Debug\net8.0\ForPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caplo\source\repos\ForPractice\ForPractice\obj\Debug\net8.0\ForPractice.AssemblyInfoInputs.cache
+C:\Users\caplo\source\repos\ForPractice\ForPractice\obj\Debug\net8.0\ForPractice.AssemblyInfo.cs
+C:\Users\caplo\source\repos\ForPractice\ForPractice\obj\Debug\net8.0\ForPractice.csproj.CoreCompileInputs.cache
+C:\Users\caplo\source\repos\ForPractice\ForPractice\obj\Debug\net8.0\ForPractice.dll
+C:\Users\caplo\source\repos\ForPractice\ForPractice\obj\Debug\net8.0\refint\ForPractice.dll
+C:\Users\caplo\source\repos\ForPractice\ForPractice\obj\Debug\net8.0\ForPractice.pdb
+C:\Users\caplo\source\repos\ForPractice\ForPractice\obj\Debug\net8.0\ForPractice.genruntimeconfig.cache
+C:\Users\caplo\source\repos\ForPractice\ForPractice\obj\Debug\net8.0\ref\ForPractice.dll
